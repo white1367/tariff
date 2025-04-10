@@ -71,8 +71,7 @@ def _tariffed_import(name, globals=None, locals=None, fromlist=(), level=0):
         new_total_time = original_import_time + sleep_time
         
         # Print tariff announcement in Trump style
-        hashtag = "#MIPA"  # Make Importing Python Again
         print(f"JUST IMPOSED a {tariff_rate}% TARIFF on {base_package}! Original import took {int(original_import_time)} us, "
-              f"now takes {int(new_total_time)} us. {_get_trump_phrase()} {hashtag}")
+              f"now takes {int(new_total_time)} us. {_get_trump_phrase()}")
     
     return module 

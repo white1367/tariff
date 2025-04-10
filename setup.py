@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="tariff",
-    version="0.1.0",
+    version="1.0.0",
     author="Python Economist",
-    author_email="example@example.com",
+    author_email="huan.xu71@gmail.com",
     description="Make importing great again! A parody package that imposes tariffs on Python imports.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/example/tariff",
+    url="https://github.com/hxu296/tariff",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
