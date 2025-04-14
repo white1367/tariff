@@ -6,6 +6,8 @@ The GREATEST, most TREMENDOUS Python package that makes importing great again!
 
 TARIFF is a fantastic tool that lets you impose import tariffs on Python packages. We're going to bring manufacturing BACK to your codebase by making foreign imports more EXPENSIVE!
 
+![meme](https://github.com/user-attachments/assets/c0b37be1-28ca-40d3-9234-cbdb3074c8eb)
+
 ## Installation
 
 ```bash
